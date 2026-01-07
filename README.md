@@ -143,7 +143,7 @@ The notebook includes smart path detection that works seamlessly in both environ
 
 ## 📓 Available Notebooks
 
-### 1. EDA_Analysis.ipynb - Exploratory Data Analysis
+### 1. EDA_Analysis.ipynb - Exploratory Data Analysis ✅
 
 Comprehensive exploratory data analysis covering:
 
@@ -207,14 +207,18 @@ Comprehensive exploratory data analysis covering:
     - Statistical summaries
     - Actionable insights
 
-### Additional Notebooks
+### Additional Notebooks (Coming Soon)
 
 More notebooks will be added covering:
-- Machine Learning models for price prediction
-- Time series forecasting
-- Portfolio optimization
-- Risk analysis and modeling
+- **Time Series Forecasting** - ARIMA, Prophet, LSTM models for price prediction
+- **Machine Learning Models** - XGBoost, Random Forest for price prediction
+- **Portfolio Optimization** - Mean-variance optimization, risk parity strategies
+- **Risk Analysis** - VaR, CVaR, drawdown analysis
+- **Market Regime Detection** - HMM, clustering for market state identification
+- **Trading Strategies** - Technical analysis, pairs trading, backtesting
 - And more...
+
+📋 **See [EDA_SUMMARY.md](EDA_SUMMARY.md) for detailed findings and next steps roadmap.**
 
 ## 🛠️ Technologies Used
 

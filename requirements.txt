@@ -5,3 +5,11 @@ seaborn>=0.12.0
 jupyter>=1.0.0
 notebook>=6.5.0
 
+# Time Series Forecasting
+statsmodels>=0.14.0
+prophet>=1.1.0
+scikit-learn>=1.3.0
+
+# Deep Learning (Optional - for LSTM/GRU models)
+tensorflow>=2.13.0
+
